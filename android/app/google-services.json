@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "914607179191",
+    "firebase_url": "https://flutter-likes-app-default-rtdb.firebaseio.com",
+    "project_id": "flutter-likes-app",
+    "storage_bucket": "flutter-likes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914607179191:android:270521d62914c67c345432",
+        "android_client_info": {
+          "package_name": "com.rogerlavada.flutter_firebase_realtime_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0IOGagFGLjfU3DSScCrHpfWVALKdubc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
